@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.corpo{
+    width: 500px;
+    margin: 0 auto;
+    background-color: #333333;
+}
+
+div{
+    width: 50%;
+    height: 250px;
+    margin: 10vh ;
+    background-color: #dedede;
+    border-radius: 10px;
+}
+
+.boxintput{
+    height: 25px;
+
+    margin: auto 17%;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-submit{
+    margin: auto 40%;
+    margin-bottom: 10px;
+    border:groove;
+    border-radius: 5px;
+}
+
+h1{
+    margin: auto 25%;
+}
+
+h2{
+    font-size: 16px;
+    margin: auto 25%;
+}
+
+#resultado{
+    margin: auto 10%;
+    font-size: 14px;
+}
